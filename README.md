@@ -1,4 +1,5 @@
 ![banner](https://i.imgur.com/78UhAe2.png)
+
 <p>
   <h2 align="center">
   機器學習 Machine Learning 2021 Spring by National Taiwan University<br>
@@ -9,15 +10,19 @@
   <img src="https://i.imgur.com/UehEGrH.png" width="500">
 </p>
 
-This repository contains code and slides of 15 homeworks for Machine Learning instructed by [李宏毅(Hung-Yi Lee)](https://speech.ee.ntu.edu.tw/~hylee/index.php). All the information about this course can be found on the [course website](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html). 
+This repository contains code and slides of 15 homeworks for Machine Learning instructed by [李宏毅(Hung-Yi Lee)](https://speech.ee.ntu.edu.tw/~hylee/index.php). All the information about this course can be found on the [course website](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html).
 
 ## Lecture Videos
+
 The lecture videos are available on Hung-Yi Lee's [youtube channel](https://www.youtube.com/channel/UC2ggjtuuWvxrHHHiaDH1dlQ).
+
+## 前情提要
+目前雲端上的資料被清空，資料來源需要去 kaggle 上抓，關鍵字可以查 ML2021Spring-hw
 
 [<img src="https://i.imgur.com/SFDpe52.jpg" width="500">](https://www.youtube.com/watch?v=Ye018rCVvOo&ab_channel=Hung-yiLee)
 
-
 ## 15 Homeworks
+
 * HW1 : Regression
 * HW2 : Classification
 * HW3 : CNN
